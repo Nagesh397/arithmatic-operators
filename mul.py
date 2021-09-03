@@ -1,2 +1,2 @@
 c=a*b
-print(c)
+print("multiplication of a and b is: "c)
